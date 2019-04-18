@@ -1,4 +1,4 @@
-# spider
+# 头条spider
 爬取文章、视频、微头条
 
 确保python>=3.6
